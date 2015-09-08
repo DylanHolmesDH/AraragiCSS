@@ -18,7 +18,7 @@
 /* ! Header
 -------------------------------------------------------------------------------- */
 #header {
-  background-color: #181818;
+  background-color: #0033CC;
   background-size: 1820px 100%, 256px 256px, 256px 256px, 256px 256px, 256px 256px, 256px 256px, 256px 256px, 256px 256px, 256px 256px;
     height: 225px;
     width: 100%
@@ -317,7 +317,7 @@ FLAIRS
 /* Submit Buttons */
 
 .md h2, .side .btn-whoaverse, btn-default, .side .md > ul, .side .md > ul li:first-child {
-    background: #333333;
+    background: #0033CC;
     text-align: center;
     color: white;
     padding: 5px;
