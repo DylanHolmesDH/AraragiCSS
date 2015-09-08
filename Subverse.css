@@ -216,18 +216,18 @@ FLAIRS
                 }
 
                 .tabmenu li.disabled a {
-                    color: #E0E0E0;background: transparent;
+                    color: #0099FF;background: transparent;
                 }
                 .tabmenu li.disabled{background: none;}
                 .tabmenu li.disabled a,
                 .tabmenu li.selected a { border: 0; border-radius: 0; }
                 .tabmenu li.disabled a:hover {
-                    color: #E0E0E0;
+                    color: #0099FF;
                     background: none;
                     border: 0;
                     border-style: solid none;
                     border-width: 2px;
-                    border-color: #E0E0E0;
+                    border-color: #0099FF;
                     box-shadow: none;
                 }
                 .tabmenu li.disabled a.contribute {
@@ -248,14 +248,14 @@ FLAIRS
                     background: none;
                     border: 0;
                     box-shadow: none;
-                    color: #E0E0E0;
+                    color: #0099FF;
                     font-weight: bold;
                 }
                 .tabmenu li.selected a:hover {
-                    color: #E0E0E0;
+                    color: #0099FF;
                     border-style: solid none;
                     border-width: 2px;
-                    border-color: #E0E0E0;
+                    border-color: #0099FF;
                 }
                 .tabmenu li.selected a.contribute {
                     background: none;
