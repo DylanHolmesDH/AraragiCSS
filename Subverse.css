@@ -233,15 +233,15 @@ FLAIRS
                 .tabmenu li.disabled a.contribute {
                     background: none;
                     border: 0;
-                    color: #D681FF;
+                    color: #0099FF;
                     font-weight: normal;
                 }
                 .tabmenu li.disabled a.contribute:hover {
                     background: none;
-                    color: #D681FF;
+                    color: #0099FF;
                     border-style: solid none;
                     border-width: 2px;
-                    border-color: #D681FF;
+                    border-color: #0099FF;
                 }
 
                 .tabmenu li.selected a {
@@ -260,15 +260,15 @@ FLAIRS
                 .tabmenu li.selected a.contribute {
                     background: none;
                     border: 0;
-                    color: #D681FF;
+                    color: #0099FF;
                     font-weight: bold;
                 }
                 .tabmenu li.selected a.contribute:hover {
                     background: none;
-                    color: #D681FF;
+                    color: #0099FF;
                     border-style: solid none;
                     border-width: 2px;
-                    border-color: #D681FF;
+                    border-color: #0099FF;
                 }
 
 /* EDIT MODERATOR BOX */
@@ -447,7 +447,7 @@ FLAIRS
                 .titlebox h1 a:hover { color: inherit; }
 
             .titlebox .btn-whoaverse-paging, .titlebox .btn-unsub  {
-                background: #333;
+                background: #0033CC;
                 border: 2px solid #333;
                 border-radius: 5px;
                 display: block;
