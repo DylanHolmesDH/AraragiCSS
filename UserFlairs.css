@@ -1,0 +1,17 @@
+/* "This gives the background with the font for the text of the flair. */
+
+a:after{
+	background: #f8f8f8;
+	border: 1px solid #e6e6e6;
+	border-radius: 20px;
+	color: #000000;
+	line-height: 150%;
+	margin-right: 2px;
+	margin-left: 1px;
+	padding: 1px 3px;
+	vertical-align: middle;
+ 
+}
+
+/* This makes it so flairs don't show up at the top of the page.  */
+ a[title="Profile"]:after,a.upvoatsGiven:after{content:none;}
