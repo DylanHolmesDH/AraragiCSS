@@ -18,7 +18,7 @@
 /* ! Header
 -------------------------------------------------------------------------------- */
 #header {
-  background-color: #3F423E;
+  background-color: #0033CC;
   background-size: 1820px 100%, 256px 256px, 256px 256px, 256px 256px, 256px 256px, 256px 256px, 256px 256px, 256px 256px, 256px 256px;
     height: 225px;
     width: 100%
@@ -273,7 +273,7 @@ FLAIRS
 /* EDIT MODERATOR BOX */
 .side .helplink + .title h1 { display: none; }
 .side .helplink + .title::before { 
-    content: '';
+    content: 'The Moderators';
     display: block;
     font-size: 130%;
     font-weight: bold;
